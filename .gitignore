@@ -5,4 +5,4 @@ __pycache__/
 .streamlit/secrets.toml
 outputs/
 work/
-*_TEMP_MPY_wvf_snd.mp4
+*TEMP_MPY_wvf_snd.mp4
